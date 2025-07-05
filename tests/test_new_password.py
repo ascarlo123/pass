@@ -18,4 +18,5 @@ def test_password_characters():
 текст1
 123
 123
+123
 """
